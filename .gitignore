@@ -2,5 +2,6 @@
 __pycache__/
 .ipynb_checkpoints/
 *.pkl
-data/
+
 .vscode/
+isrgrootx1.pem
